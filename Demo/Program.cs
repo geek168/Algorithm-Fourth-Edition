@@ -10,6 +10,9 @@ namespace Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Chapter1.GreatCommonDivisor.GCD(15, 7));
+
+            Console.ReadLine();
         }
     }
 }
