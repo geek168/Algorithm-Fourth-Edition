@@ -11,7 +11,8 @@ namespace Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Chapter1.BinarySearch.Search(6));
+            Chapter1.MatrixMultiplication.Multiplication();
+
 
             Console.ReadLine();
         }

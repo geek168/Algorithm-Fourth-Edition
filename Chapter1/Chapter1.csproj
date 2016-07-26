@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="BinarySearch.cs" />
     <Compile Include="GreatCommonDivisor.cs" />
+    <Compile Include="MatrixMultiplication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
